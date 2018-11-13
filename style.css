@@ -1,0 +1,25 @@
+h1{
+    font-family:"Impact";
+    font-size:75px;
+    color:darkred;
+    text-align:center;
+    position:relative;
+}
+body{
+    background-color:lightsteelblue;
+
+}
+p{
+    font-family:"optima";
+    color:darkslategray;
+    font-size:40px;
+    padding-bottom:0px;
+    margin-bottom:12px;
+}
+
+div{
+    font-size:20px;
+    color:darkslategray;
+    font-family:monospace;
+    margin-right: 1px;
+}
